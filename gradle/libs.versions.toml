@@ -1,0 +1,38 @@
+[versions]
+agp = "8.5.0-alpha06"
+glide = "4.16.0"
+junit = "4.13.2"
+junitVersion = "1.1.5"
+espressoCore = "3.5.1"
+appcompat = "1.6.1"
+material = "1.10.0"
+constraintlayout = "2.1.4"
+navigationFragment = "2.6.0"
+navigationUi = "2.6.0"
+orgProjectlombokLombok2 = "1.18.30"
+refreshLayoutKernel = "2.0.5"
+refreshHeaderRadar = "2.0.5"
+
+[libraries]
+github-refresh-header-classics = { module = "io.github.scwang90:refresh-header-classics", version.ref = "refreshLayoutKernel" }
+glide = { module = "com.github.bumptech.glide:glide", version.ref = "glide" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+navigation-fragment = { group = "androidx.navigation", name = "navigation-fragment", version.ref = "navigationFragment" }
+navigation-ui = { group = "androidx.navigation", name = "navigation-ui", version.ref = "navigationUi" }
+org-projectlombok-lombok4 = { module = "org.projectlombok:lombok", version.ref = "orgProjectlombokLombok2" }
+refresh-footer-classics = { module = "io.github.scwang90:refresh-footer-classics", version.ref = "refreshLayoutKernel" }
+refresh-footer-ball = { module = "io.github.scwang90:refresh-footer-ball", version.ref = "refreshLayoutKernel" }
+refresh-header-falsify = { module = "io.github.scwang90:refresh-header-falsify", version.ref = "refreshLayoutKernel" }
+refresh-header-material = { module = "io.github.scwang90:refresh-header-material", version.ref = "refreshLayoutKernel" }
+refresh-header-radar = { module = "io.github.scwang90:refresh-header-radar", version.ref = "refreshHeaderRadar" }
+refresh-header-two-level = { module = "io.github.scwang90:refresh-header-two-level", version.ref = "refreshLayoutKernel" }
+refresh-layout-kernel = { module = "io.github.scwang90:refresh-layout-kernel", version.ref = "refreshLayoutKernel" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+
