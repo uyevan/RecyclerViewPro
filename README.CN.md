@@ -39,8 +39,8 @@ SmartRefreshLayout：刷新神器，下拉刷新和上拉加载的魔法就靠�
 
 > 项目截图
 
-<img alt="Demo" height="576" src="https://img2.imgtp.com/2024/06/01/SD4iyI04.png" width="1024"/>
+<img alt="Demo" height="500" src="https://img2.imgtp.com/2024/06/01/SD4iyI04.png" width="1024"/>
 
 > 运行Demo
 
-<img alt="Demo" height="576" src="https://img2.imgtp.com/2024/06/01/XRcuwOYn.gif" width="1024"/>
+<img alt="Demo" height="500" src="https://img2.imgtp.com/2024/06/01/XRcuwOYn.gif" width="1024"/>
