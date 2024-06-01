@@ -1,6 +1,6 @@
 # RecyclerViewPro
 
-[English Dock](https://github.com/uyevan/RecyclerViewPro/README.md)
+[English Dock](https://github.com/uyevan/RecyclerViewPro/blob/master/README.md)
 
 ## 项目简介
 
@@ -39,8 +39,8 @@ SmartRefreshLayout：刷新神器，下拉刷新和上拉加载的魔法就靠�
 
 > 项目截图
 
-![Demo](https://img2.imgtp.com/2024/06/01/SD4iyI04.png)
+<img alt="Demo" height="900" src="https://img2.imgtp.com/2024/06/01/SD4iyI04.png" width="1024"/>
 
 > 运行Demo
 
-![Demo](https://img2.imgtp.com/2024/06/01/XRcuwOYn.gif)
+<img alt="Demo" height="900" src="https://img2.imgtp.com/2024/06/01/XRcuwOYn.gif" width="1024"/>

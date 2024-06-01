@@ -1,6 +1,6 @@
 # RecyclerViewPro
 
-[中文文档](https://github.com/uyevan/RecyclerViewPro/README.CN.md)
+[中文文档](https://github.com/uyevan/RecyclerViewPro/blob/master/README.CN.md)
 
 ## Project Introduction
 
@@ -57,6 +57,9 @@ demonstration, like a teaser trailer for the project, allowing you to experience
 operation and instant updates in advance.
 
 > Project Screenshot
-![Demo](https://img2.imgtp.com/2024/06/01/SD4iyI04.png)
+
+<img alt="Demo" height="900" src="https://img2.imgtp.com/2024/06/01/SD4iyI04.png" width="1024"/>
+
 > Run Demo
-![Demo](https://img2.imgtp.com/2024/06/01/XRcuwOYn.gif)
+
+<img alt="Demo" height="900" src="https://img2.imgtp.com/2024/06/01/XRcuwOYn.gif" width="1024"/>
