@@ -58,8 +58,9 @@ operation and instant updates in advance.
 
 > Project Screenshot
 
-<img alt="Demo" height="900" src="https://img2.imgtp.com/2024/06/01/SD4iyI04.png" width="1024"/>
+<img alt="Demo" height="576" src="https://img2.imgtp.com/2024/06/01/SD4iyI04.png" width="1024"/>
 
 > Run Demo
 
-<img alt="Demo" height="900" src="https://img2.imgtp.com/2024/06/01/XRcuwOYn.gif" width="1024"/>
+<img alt="Demo" height="576" src="https://img2.imgtp.com/2024/06/01/XRcuwOYn.gif" width="1024"/>
+
